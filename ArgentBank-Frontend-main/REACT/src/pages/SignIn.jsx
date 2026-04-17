@@ -1,6 +1,6 @@
 import Header from '../components/Header'
-import Footer from '../components/footer'
-
+import Footer from '../components/Footer'
+import './Signin.css'
 function SignIn() {
   return (
     <>

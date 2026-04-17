@@ -1,8 +1,8 @@
 import Header from '../components/Header'
-import Footer from '../components/footer'
+import Footer from '../components/Footer'
 import FeatureItem from '../components/FeatureItem'
 import Hero from '../components/Hero'
-
+import './Home.css'
 function Home() {
   return (
     <>
